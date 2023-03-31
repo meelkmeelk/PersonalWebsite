@@ -1,0 +1,43 @@
+SDL
+
+
+31/3/2023:
+
+Firstly, I have to announce that I am ditching the initial plan to build a blockchain for my SDLs. 
+
+There are several reasons to it:
+1. I realised that I am building the blockchain aimlessly, no idea of the utility (I kinda disagree with my inital reasons to create the blockchain).
+2. Blockchain is a high level technology, and many successful blockchains do not make their source code available to view, or its just a bunch of code that I do not understand.
+
+Thus, I would like to work with something simpler, and more beneficial to my endpoint (A levels) for now.
+
+I would like to create a personal website that utilises Python logic and many more languages that are super benefical, at least that's what I think for now. Since I would not want to regret my decisions in the past, this time, I will create a project with a plan.
+
+Questions that ChatGpt provided me:
+
+
+    What is the purpose of my website? Do I want to showcase my work, share my opinions or expertise, or build my personal brand?
+	*The purpose of my website is to allow me to better organise my time, as well as reducing instances where I MIA outings and homework. This will also be my personal portfolio to showcase my achievements, as well as cool projects so that the website will be a go-to for people that would like to have a deeper understanding of my life.
+
+    Who is my target audience? What do they want to see on my website, and what kind of content will be most engaging for them?
+	*Firstly, my website will be my "personal blog" - inspired by the other Jerome - where I rant (will be in a way that I will not get cancelled), so I guess this will be the entertainment factor of the website with the website visitors (friends?family?spy?. Other content, such as timetable would allow them to know when I am free, so that they do not think of other reasons why I refuse to go out with them. It will be in a way where I do not get stalked so like: I see my school timetable in my website but others would see "occupied".
+
+    What kind of content do I want to include on my website? Should I include a blog, portfolio, or other types of content?
+	*As mentioned earlier on, I would like to include 1. a blog 2. a timetable 3. my portfolio 4. about me
+
+    What design elements do I want to incorporate into my website? Should I choose a minimalist design or a more elaborate one?
+	*Since the society is moving towards the direction of minimalist, e.g. Instagram logo then and now.
+
+    What should be the overall tone of my website? Should it be professional, casual, or somewhere in between?
+	*I would like to balance between professional and casual
+
+    What should be the primary call-to-action on my website? Do I want my visitors to contact me, subscribe to my newsletter, or purchase my products/services?
+	*I don't think I have lots of time to create newsletters or provide a service so, TBC
+
+    What kind of functionality do I want to incorporate into my website? Do I want to include social media integration, e-commerce functionality, or other features?
+	*Login for visitors: this is to prevent people from spamming funny stuff in my contact page
+	*Database: Would like to use Oracle but have some problems getting an account and heard that its super complex, but reason for choosing it was because of its ability to allow many users to access a single database. Would change if its too difficult, like the blockchain.
+	*Flask to processs functions, may change since ChatGpt said that flask could not operate in a large scale, but not like I am going to operate in a large scale
+	*html, css and java as fundamentals of a personal website. However, I was told that bootstrap was a good choice so SDL today is learning bootstrap on W3Schools
+	*Different views for admin (which is me - views more personal details/edit content) vs users (views general things)
+
